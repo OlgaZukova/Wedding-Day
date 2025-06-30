@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/f95eb4bd-a787-4dce-9f51-480272969477)
+![image](https://github.com/user-attachments/assets/daff53d0-100a-46ad-9103-c57c64018692)
+)
 A beautiful and elegant countdown timer to your wedding day with animation and music.
 Description:
 This project is a webpage that displays a live countdown timer showing the days, hours, minutes, and seconds left until a specified wedding date. When the countdown reaches zero, a congratulatory message appears along with falling flower animations. There's also a button to play wedding music.
