@@ -1,5 +1,5 @@
 function weddingCountDown(){
-    const weddingDate = new Date("August 2, 2025 17:00");
+    const weddingDate = new Date("Month Day, Year Hour:Minutes");
     const now = new Date();
     console.log(weddingDate, now);
     const diff = weddingDate - now;
